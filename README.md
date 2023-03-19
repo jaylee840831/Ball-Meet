@@ -11,8 +11,6 @@
 123@gmail.com | 12345678
 456@gmail.com | 12345678
 
-</br>
-
 ## 開發工具介紹
 本平台利用前後端分離的方式開發，並部署於 Amazon AWS 中的 EC2。</br>
 
@@ -24,15 +22,13 @@
 
 資料庫: PostgreSQL</br>
 
-雲端: Amazon AWS
-
-</br>
+雲端: Amazon AWS</br>
 
 ## 功能介紹
 1. 登入<br/>
 可自行註冊或是使用提供的測試帳號。<br/>
-<img src="" />
-<img src="" />
+<img src="https://github.com/jaylee840831/Ball-Meet/blob/master/image/%E7%99%BB%E5%85%A5.jpg" />
+<img src="https://github.com/jaylee840831/Ball-Meet/blob/master/image/%E8%A8%BB%E5%86%8A.jpg" />
 
 2. 球局資訊查詢 <br/>
 這裡可以查詢到所有已建立之球局，點擊聊天室，進入與球友們聊天交流，點擊星星符號可以儲存該球局。<br/>
@@ -55,7 +51,7 @@
 <img src="" />
 
 7. 影片分析(尚未開發)<br/>
-希望能整合我論文的球賽分析技術，讓使用者可以在網路上自動剪輯球賽影片等等<br/>
+希望能整合我論文的球賽分析技術，讓使用者可以在網路上自動剪輯球賽影片等等。<br/>
 
 8. 我的球友(尚未開發)<br/>
-儲存追蹤的球友名單<br/>
+儲存追蹤的球友名單。<br/>
