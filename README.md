@@ -14,7 +14,7 @@
 ## 開發工具介紹
 本平台利用前後端分離的方式開發，並部署於 Amazon AWS 中的 EC2。</br>
 
-前端: Angular 15</br>
+前端: Angular 15.1.6</br>
 前端原始碼: [Ballgame_Frontend](https://github.com/jaylee840831/Ballgame_Frontend/tree/test)</br>
 
 後端: Spring Boot + Java 17</br>
